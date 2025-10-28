@@ -36,4 +36,8 @@ Frontend: HTML, CSS, JavaScript
 
 Data Source: Fake Store API
 
+
+video link:https://youtu.be/IPG2JIwdPVg
+
 Storage: Browser LocalStorage
+
